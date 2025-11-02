@@ -47,3 +47,17 @@ Typography stays pragmatic: a sans‑serif system stack (Arial) for broad OS sup
 Spacing uses a simple rhythm based on millimetres to ensure that what you see on screen matches the print result. The photo container is a fixed rectangle, so any image dropped in `img/foto.jpg` will fill the frame with `object-fit: cover`. Icons in the contact list aid scanning but remain monochrome to avoid visual noise. Decorative shapes were intentionally removed to keep the document focused and formal. Overall, the design choices privilege clarity and print reliability over embellishment.
 
 
+
+## FIGMA PROJECT LINK
+
+[ Click here to go Figma Project ] (https://www.figma.com/design/vOlnjHy18eniQQsRgscN5V/Untitled?node-id=0-1&t=KM5ZmYhO5m7S2tIP-1)
+
+## HMTL 
+
+
+
+
+
+
+
+
