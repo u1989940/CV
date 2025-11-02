@@ -50,7 +50,7 @@ Spacing uses a simple rhythm based on millimetres to ensure that what you see on
 
 ## FIGMA PROJECT LINK
 
-[ Click here to go Figma Project ] (https://www.figma.com/design/vOlnjHy18eniQQsRgscN5V/Untitled?node-id=0-1&t=KM5ZmYhO5m7S2tIP-1)
+[Click here to go Figma Project](https://www.figma.com/design/vOlnjHy18eniQQsRgscN5V/Untitled?node-id=0-1&t=KM5ZmYhO5m7S2tIP-1)
 
 ## HMTL 
 
