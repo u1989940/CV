@@ -33,5 +33,6 @@ French - Low level
 
 **Skills:**
 Github - CodeBlocks - QtSpim - PowerShell - hmtl - css
+
 Hard work - Social - Empathetic 
 
