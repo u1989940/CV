@@ -47,4 +47,3 @@ body{font-family:Arial,Helvetica,sans-serif;background:#eef1f4;color:#222}
 
 /* impresión */
 @media print{body{background:#fff}.page.a4{margin:0;box-shadow:none}}
-
