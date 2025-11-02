@@ -2,8 +2,10 @@
 
 ## Project analysis — User persona
 
-**Name:** David Caballero Caballero 
+**Name:** David Caballero Caballeroç
+
 **Role:** Computer Science Student
+
 **Goals**
 - Find contact details and core skills immediately.
 - Save or print a clean PDF for the hiring folder.
