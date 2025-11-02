@@ -2,7 +2,7 @@
 
 ## Project analysis — User persona
 
-**Name:** David Caballero Caballeroç
+**Name:** David Caballero Caballero
 
 **Role:** Computer Science Student
 
